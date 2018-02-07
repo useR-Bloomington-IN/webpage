@@ -16,12 +16,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
     bloghead            = "Posts"                        # Full name shows on blog post pages
     firstname           = "Bloomington R UseR Group"                # First name shows in introduction on main page
-    tagline             = "Open to users of all levels"       # Appears after the introduction
+    tagline             = "A welcoming community for users of all levels"       # Appears after the introduction
     introheight         = "fullheight"                       # Input either 'medium' or 'large' or 'fullheight'
     themestyle          = "light"                        # Choose 'light' or 'dark'
     avatar              = "img/Rlogo.png"             # Path to image in static folder eg. img/avatar.png, or comment out to remove
-    email               = "user.bloomington.in@gmail.com"         # Shows in contact section, or leave blank to omit
-    localtime           = true                          # Show your current local time in contact section
+    email               = "useR.Bloomington.IN@gmail.com"         # Shows in contact section, or leave blank to omit
+    localtime           = false                          # Show your current local time in contact section
     timezone            = "America/Indianapolis"         # Your timezone as in the TZ* column of this list: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
     dateform            = "Jan 2, 2006"
     dateformfull        = "Mon Jan 2 2006 15:04:05 EST"
